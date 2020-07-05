@@ -28,3 +28,6 @@ let mut optional_values_vec: Vec<Option<i8>> = Vec::new();
 该代码中，  optional_values_vec.pop() 出来的不应该是 Option<i8> 类型吗， 为什么使用 Some(Some(value)) 进行匹配， 我以为是 Some(value) 就足够了。
   
  早上 3 小时：完成了 rustlings
+ 
+ ## 7.4 
+ 晚上一小时： 做了要求的基础练习
