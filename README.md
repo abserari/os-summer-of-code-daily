@@ -31,3 +31,6 @@ let mut optional_values_vec: Vec<Option<i8>> = Vec::new();
  
  ## 7.4 
  晚上一小时： 做了要求的基础练习
+ 
+ ## 7.7
+ 做了部分 leetcode
