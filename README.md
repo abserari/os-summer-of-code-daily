@@ -34,3 +34,9 @@ let mut optional_values_vec: Vec<Option<i8>> = Vec::new();
  
  ## 7.7
  做了部分 leetcode
+ 
+ ## 7.15
+ 开始看 RISC-V 手册
+
+ ## 7.15 部分
+ ## 7.15 
