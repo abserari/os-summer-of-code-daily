@@ -42,3 +42,4 @@ let mut optional_values_vec: Vec<Option<i8>> = Vec::new();
 
 ## 7.16
  上午 4 小时：看完了 RISC
+分页技术： https://blog.betacat.io/post/introduction-to-paging/
