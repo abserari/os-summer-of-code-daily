@@ -46,5 +46,5 @@ let mut optional_values_vec: Vec<Option<i8>> = Vec::new();
 
 ## 7.17
 陈瑜老师的笔记: https://github.com/chyyuu/os_kernel_lab/blob/riscv64-priv-1.10/docs/riscv-overview.md
-激动
+激动， 打印了 core 的 helloworld。
 
